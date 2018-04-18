@@ -5,7 +5,7 @@ body div {
 	margin: auto;
 }
 #contenedor {
-	background: url("imagenes/contenedorFondoverde.jpg"); top: 40px; width: 100%; position: relative;
+	background: url("imagenes/contenedorFondoverde.jpg"); top: 100%; width: 100%; position: relative;
 }
 #contenedorArriba {
 	background: url("imagenes/contenedorArriba.jpg"); width: 801px; height: 11px;
